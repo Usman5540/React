@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+  background-color: #414141
+    
+    
+}
+.input_container{
+    margin: 5px;
+}
+.wrapper{
+    display: flex;
+justify-content: center;
+flex-direction: column;
+align-items: center;
+height: 100vh;
+}
+label,.output,h1{
+   color: #ffff;
+}
